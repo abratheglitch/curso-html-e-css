@@ -17,3 +17,30 @@ p {
   color: aqua;
   padding: 5px;
 }
+
+/* ID */
+#exclusive-title {
+  background-color: purple;
+  color: yellow;
+  padding: 10px;
+  font-size: 40px;
+  font-weight: lighter;
+}
+
+/* Ordem das Regras */
+h2 {
+  border-bottom: 2px solid red;
+}
+
+.blabla2 {
+  border-bottom: 3px solid blue;
+}
+
+#blabla {
+  border-bottom: 4px solid green;
+}
+
+/* Nome de Cores */
+.color-name {
+  color: rgb(107, 3, 24);
+}
